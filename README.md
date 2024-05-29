@@ -1,0 +1,1 @@
+# A Julia package for the mixture of priorities method
