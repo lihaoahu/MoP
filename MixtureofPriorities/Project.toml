@@ -1,0 +1,9 @@
+name = "MixtureofPriorities"
+uuid = "0c04f2ac-7933-45b7-ac7a-a79f662b4000"
+authors = ["Hao Li <lihaoahu@qq.com>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
